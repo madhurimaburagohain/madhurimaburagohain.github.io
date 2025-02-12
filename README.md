@@ -20,14 +20,14 @@ I am an **Assistant Professor (Grade-II)** in the **Department of Computer Scien
   - Teaching and research in the domain of **Computer Networks, Network Security, and 5G**.
 - **Postdoctoral Researcher**, IIT Guwahati (August 2022 - 2023)
   - Worked on **Named Data Networking and Network Security**
-- **Teaching Assistant & Research Scholar**, IIT Guwahati (2015 - 2022)
+- **Research Scholar**, IIT Guwahati (2015 - 2022)
   - Mentored M.Tech and B.Tech students, Summer Trainees, and Interns in various **NDN** projects.
   - Assisted in teaching **Computer Networks, Wireless Networks, and Network Security**.
 
 ## Publications
 ### Journal Papers
 - **2024**: "Distributed neighbor discovery with mobility adaptive probing for beyond 5G D2D communications" - **Computer Networks** 
-- **2020**: "Quality of Service provisioning in Named Data Networking via PIT entry reservation and PIT replacement policy" - **Computer Communications, Elsevier**
+- **2020**: "Quality of Service provisioning in Named Data Networking via PIT entry reservation and PIT replacement policy" - **Computer Communications**
 
 ### Conference Papers
 - **2024**: "Design and Implementation of a Neighbor Discovery Framework through Base Station Coordination for 5G D2D Communications" - **IEEE WCNC**
