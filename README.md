@@ -58,7 +58,7 @@ I am an **Assistant Professor (Grade-II)** in the **Department of Computer Scien
 - **ACM Member**
 
 ## PhD Supervision
-- **Aditya Narayan Singh**, Research Topic: Cloud Computing (Ongoing, Expected: 2025)
+- **Aditya Narayan Singh**, Research Topic: Cloud Computing (Ongoing)
 
 ## Contact
 - **Email**: [buragohainm@nitj.ac.in](mailto:buragohainm@nitj.ac.in)
