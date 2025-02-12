@@ -62,9 +62,3 @@ I am an **Assistant Professor (Grade-II)** in the **Department of Computer Scien
 
 ## Contact
 - **Email**: [buragohainm@nitj.ac.in](mailto:buragohainm@nitj.ac.in)
-
-## References
-- **Prof. Sukumar Nandi**, IIT Guwahati ([Homepage](https://www.iitg.ac.in/sukumar/))
-- **Prof. Sanjay K. Bose**, Plaksha University ([Homepage](https://user.plaksha.edu.in/sanjay-bose/))
-- **Prof. Nityananda Sarma**, Tezpur University ([Homepage](https://tezu.irins.org/profile/40241))
-- **Prof. Rupam Baruah**, Jorhat Engineering College ([Email](mailto:rupam.baruah.jec@gmail.com))
