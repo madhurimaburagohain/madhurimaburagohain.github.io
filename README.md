@@ -41,11 +41,10 @@ I am an **Assistant Professor (Grade-II)** in the **Department of Computer Scien
 - **2018**: "PKHSN: A Bilinear Pairing Based Key Management Scheme for Heterogeneous Sensor Networks" - **Springer**
 
 ## Achievements
-- **Assistant Professor (Grade-II) at NIT Jalandhar**
-- **PhD Fellowship**, Ministry of Education, Govt. of India (2015-2020)
+- **PhD Fellowship**, Ministry of Education, Govt. of India
 - **Gold Medalist**, B.E. in Computer Science and Engineering, Jorhat Engineering College
 - **GATE Scholarship** for M.Tech Studies
-- **Anundoram Borooah Award**, Govt. of Assam (2006)
+- **Anundoram Borooah Award**, Govt. of Assam
 
 ## Technical Skills
 - **Operating Systems**: Windows, Ubuntu, macOS, Fedora
