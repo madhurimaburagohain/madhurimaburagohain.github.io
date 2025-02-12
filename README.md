@@ -5,17 +5,6 @@
 ## Profile
 I am an **Assistant Professor (Grade-II)** in the **Department of Computer Science & Engineering** at **Dr. B.R. Ambedkar National Institute of Technology Jalandhar (NIT Jalandhar)**. Previously, I worked as a **Postdoctoral Researcher** at **IIT Guwahati** on the “Information Security Education and Awareness (ISEA) Project phase-II” funded by the **Ministry of Electronics and Information Technology, Govt. of India**. My expertise includes **Computer Networks, Network Security, Future Internet Architecture (Named Data Networking), 5G, and Device-to-Device Communication**.
 
-## Table of Contents
-- [Education](#education)
-- [Work Experience](#work-experience)
-- [Publications](#publications)
-- [Achievements](#achievements)
-- [Technical Skills](#technical-skills)
-- [Professional Memberships](#professional-memberships)
-- [PhD Supervision](#phd-supervision)
-- [Contact](#contact)
-- [References](#references)
-
 ## Education
 - **Ph.D. in Computer Science & Engineering**, IIT Guwahati (2015 - 2022)
   - Thesis: Impact of Pending Interest Table Size and Policies on Network Performance in Named Data Networking
