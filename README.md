@@ -1,6 +1,6 @@
 # Dr. Madhurima Buragohain
 
-![Profile Picture](https://github.com/madhurimaburagohain/madhurimaburagohain.github.io/blob/NDN/IMG_20230326_173834.jpg)
+<img src="https://github.com/madhurimaburagohain/madhurimaburagohain.github.io/blob/NDN/IMG_20230326_173834.jpg" alt="Profile Picture" width="150" height="150" align="right">
 
 ## Profile
 I am an **Assistant Professor (Grade-II)** in the **Department of Computer Science & Engineering** at **Dr. B.R. Ambedkar National Institute of Technology Jalandhar (NIT Jalandhar)**. Previously, I worked as a **Postdoctoral Researcher** at **IIT Guwahati** on the “Information Security Education and Awareness (ISEA) Project phase-II” funded by the **Ministry of Electronics and Information Technology, Govt. of India**. My expertise includes **Computer Networks, Network Security, Future Internet Architecture (Named Data Networking), 5G, and Device-to-Device Communication**.
