@@ -30,6 +30,7 @@ I am an **Assistant Professor (Grade-II)** in the **Department of Computer Scien
 - **2020**: "Quality of Service provisioning in Named Data Networking via PIT entry reservation and PIT replacement policy" - **Computer Communications**
 
 ### Conference Papers
+- **2026**: "Design and Implementation of a Resource Pool Configuration Framework through Bitmap-Based Partition for 5G D2D Communications" - **IEEE ICC**
 - **2024**: "Design and Implementation of a Neighbor Discovery Framework through Base Station Coordination for 5G D2D Communications" - **IEEE WCNC**
 - **2021**: "LPECN: Leveraging PIT placement and explicit marking for congestion control in NDN" - **ACM ICN**
 - **2020**: "SCAN: Smart Collaborative Attack in Named Data Networking" - **IEEE LCN**
